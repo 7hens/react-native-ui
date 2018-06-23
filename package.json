@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/7hens/react-native-ui/issues"
   },
-  "homepage": "https://github.com/7hens/react-native-ui#readme"
+  "homepage": "https://github.com/7hens/react-native-ui#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-native": "^0.55.4"
+  }
 }
