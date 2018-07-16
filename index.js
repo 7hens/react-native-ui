@@ -5,8 +5,7 @@ const windowRect = Dimensions.get("window")
 export const windowWidth = windowRect.width
 export const windowHeight = windowRect.height
 
-export { default as ResponsiveScreen } from './ResponsiveScreen'
-export { default as Scaffold } from './Scaffold'
-export { default as Toast } from './Toast'
-export { default as Snackbar } from './Snackbar'
-export { default as Dialog } from "./Dialog"
+export { default as Scaffold } from './src/Scaffold'
+export { default as Toast } from './src/Toast'
+export { default as Snackbar } from './src/Snackbar'
+export { default as Dialog } from "./src/Dialog"
